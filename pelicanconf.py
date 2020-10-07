@@ -4,7 +4,7 @@ from datetime import datetime
 
 AUTHOR = 'Sandesh Daundkar'
 SITENAME = "Sandesh's Blog"
-SITEURL = 'http://127.0.0.1:8000'
+SITEURL = 'https://sandeshdaundkar.com'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Python Django Developer'
 SITELOGO = SITEURL + "/images/profile.jpeg"
