@@ -4,9 +4,11 @@ from datetime import datetime
 
 AUTHOR = 'Sandesh Daundkar'
 SITENAME = "Sandesh's Blog"
-SITEURL = ''
+SITEURL = 'http://127.0.0.1:8000'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Python Django Developer'
+SITELOGO = SITEURL + "/images/profile.jpeg"
+FAVICON = SITEURL + "/images/favicon.ico"
 
 PATH = 'content'
 
@@ -56,8 +58,9 @@ COPYRIGHT_YEAR = datetime.now().year
 COPYRIGHT_NAME = "Sandesh Daundkar"
 
 
-THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
-THEME_COLOR_ENABLE_USER_OVERRIDE = True
+# THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+# THEME_COLOR_ENABLE_USER_OVERRIDE = True
+BROWSER_COLOR = "#333"
 
 USE_LESS = True
 
