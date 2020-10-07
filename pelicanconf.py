@@ -33,7 +33,8 @@ SOCIAL = (('github', 'https://github.com/sandeshdaundkar'),
           ('facebook', 'https://www.facebook.com/sandeshdaundkr'))
 
 DEFAULT_PAGINATION = 10
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 THEME = './Flex'
 PYGMENTS_STYLE = "monokai"
 
