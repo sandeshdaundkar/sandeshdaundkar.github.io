@@ -4,7 +4,7 @@ from datetime import datetime
 
 AUTHOR = 'Sandesh Daundkar'
 SITENAME = "Sandesh's Blog"
-SITEURL = 'https://sandeshdaundkar.com'
+SITEURL = 'https://sandeshdaundkar.com/'
 SITETITLE = SITENAME
 SITESUBTITLE = 'Python Django Developer'
 SITELOGO = SITEURL + "/images/profile.jpeg"
@@ -41,7 +41,7 @@ THEME = './Flex'
 PYGMENTS_STYLE = "monokai"
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # Menu Config
 MAIN_MENU = True
