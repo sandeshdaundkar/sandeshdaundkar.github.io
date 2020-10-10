@@ -4,7 +4,7 @@
 &lt;em&gt;ECMAScript 2015 also known as ES6, is one such JavaScript standard, which adds significant new features for developing complex applications.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I recently, started learning React, and came across the javascript standard used widely for developing React applications. I assume you already have
-little experience with JS. Most of the latest browsers support the ES6 Sytax, so if you wish to try the snippets, you can start the developer console and try 'em.
+little experience with JS. Most of the latest browsers support the ES6 Syntax, so if you wish to try the snippets, you can start the developer console and try 'em.
 In this section, we will see how we can declare variables and write compact functions using ES6 syntax.&lt;/p&gt;
 &lt;h1&gt;Variables&lt;/h1&gt;
 &lt;p&gt;In ES6 you can declare variables using either of the three keywords &lt;code&gt;var&lt;/code&gt;, &lt;code&gt;let&lt;/code&gt; and &lt;code&gt;const&lt;/code&gt;, depending on the scope of the variable.
