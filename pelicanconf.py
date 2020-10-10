@@ -75,3 +75,4 @@ CC_LICENSE = {
 PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['post_stats', 'series', 'representative_image', 'liquid_tags']
 ADD_THIS_ID = "ra-5f68af799642611f"
+GOOGLE_ANALYTICS = "UA-180247497-1"

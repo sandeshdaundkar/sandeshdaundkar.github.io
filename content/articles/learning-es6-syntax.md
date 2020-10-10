@@ -9,7 +9,7 @@ Summary: In this post, I will introduce you to variables and arrow functions in 
 > _ECMAScript 2015 also known as ES6, is one such JavaScript standard, which adds significant new features for developing complex applications._
 
 I recently, started learning React, and came across the javascript standard used widely for developing React applications. I assume you already have
-little experience with JS. Most of the latest browsers support the ES6 Sytax, so if you wish to try the snippets, you can start the developer console and try 'em.
+little experience with JS. Most of the latest browsers support the ES6 Syntax, so if you wish to try the snippets, you can start the developer console and try 'em.
 In this section, we will see how we can declare variables and write compact functions using ES6 syntax.
 
 # Variables
