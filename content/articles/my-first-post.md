@@ -4,7 +4,7 @@ Category: misc
 Tags: first, misc
 Slug: just-launched
 Authors: Sandesh Daundkar
-Summary: This site is just launched on my 27th Birthday!
+Summary: Welcome Aboard! This blog is launched on my 27th Birthday.
 
 
-
+This is yet to be written.
